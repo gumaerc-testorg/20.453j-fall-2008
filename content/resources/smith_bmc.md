@@ -4,8 +4,13 @@ description: 'Article provided as a course reading on biological pathways: Smith
   A. K., et al. "LinkHub: A Semantic Web System that Facilitates Cross-database Queries
   and Information Retrieval in Proteomics." BMC Bioinformatics 8, Suppl. 3 (2007):
   S5.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-453j-biomedical-information-technology-fall-2008/8b05d0c4db91ef1f0c5e123bbcf701ea_smith_bmc.pdf
+file: /media/courses/20-453j-biomedical-information-technology-fall-2008/8b05d0c4db91ef1f0c5e123bbcf701ea_smith_bmc.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 'LinkHub: a Semantic Web system that facilitates cross-database queries and
   information retrieval in proteomics'

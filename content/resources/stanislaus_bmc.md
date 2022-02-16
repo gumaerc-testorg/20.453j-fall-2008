@@ -4,8 +4,13 @@ description: 'Article provided as a course reading on storing, querying, and int
   biomedical data: Stanislaus, R., et al. "An XML Standard for the Dissemination of
   Annotated 2D Gel Electrophoresis Data Complemented with Mass Spectrometry Results."
   BMC Bioinformatics 5, no. 9 (2004). '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-453j-biomedical-information-technology-fall-2008/7faff9d713e516e5c69403701d2c93a3_stanislaus_bmc.pdf
+file: /media/courses/20-453j-biomedical-information-technology-fall-2008/7faff9d713e516e5c69403701d2c93a3_stanislaus_bmc.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: An XML Standard for the Dissemination of Annotated 2D Gel Electrophoresis Data
   Complemented with Mass Spectrometry Results

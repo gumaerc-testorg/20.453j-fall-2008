@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: bbaeb71e-93e6-7ef5-09cf-88ed1bf66dff
 ---
@@ -37,7 +40,7 @@ Stein, L. D. "Integrating Biological Databases." _Nature Reviews Genetics_ 4 (Ma
 
 Searls, D. B. "Data Integration: Challenges for Drug Discovery." _Nature Reviews Drug Discovery_ 4 (January 2005): 45-48.
 
-Davidson, S. B., and L. Wong. "The Kleisli Approach to Data Transformation and Integration." 2001. (Download [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.2180&rep=rep1&type=pdf) from CiteSeerx.)
+Davidson, S. B., and L. Wong. "The Kleisli Approach to Data Transformation and Integration." 2001. (Download [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.2180&rep=rep1&type=pdf) from CiteSeer{{< sup "x" >}}.)
 
 Bhowmick, S. S., P. Cruz, and A. Laud. "[XomatiQ: Living With Genomes, Proteomes, Relations and a Little Bit of XML](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.15.3594&rep=rep1&type=pdf)." Proceedings of 19th International Conference on Data Engineering (ICDE'03), 2003.
 
