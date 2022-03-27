@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b5bb2af9-1cda-c456-78d3-78bcf02fd730
 resourcetype: Document
 title: PostgreSQL Mini Installation User Guide
 uid: b3f88920-ed47-8e70-5bc5-2babbefc5b5c

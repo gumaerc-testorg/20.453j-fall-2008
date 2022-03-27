@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bbaeb71e-93e6-7ef5-09cf-88ed1bf66dff
 resourcetype: Document
 title: 'AlzPharm: Integration of Neurodegeneration Data using RDF'
 uid: cf29d194-4802-c2f9-5a66-ee61e8b582b4

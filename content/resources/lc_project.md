@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b5bb2af9-1cda-c456-78d3-78bcf02fd730
 resourcetype: Document
 title: Constructing a Conformational Space of Pro-Ser-Thr Rich Non-Globular Domains
 uid: 6da09141-b6f6-8d5f-68e9-d4ffcac56bae

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bbaeb71e-93e6-7ef5-09cf-88ed1bf66dff
 resourcetype: Document
 title: 'cPath: Open Source Software for Collecting, Storing, and Querying Biological
   Pathways'

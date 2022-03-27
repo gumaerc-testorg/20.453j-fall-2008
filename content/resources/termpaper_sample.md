@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b5bb2af9-1cda-c456-78d3-78bcf02fd730
 resourcetype: Document
 title: Unifying Electronic Medical Records (EMR) Systems in Singapore
 uid: dc852d84-a2d8-1aa3-7297-4c4c58cd668d

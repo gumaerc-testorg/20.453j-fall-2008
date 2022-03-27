@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bbaeb71e-93e6-7ef5-09cf-88ed1bf66dff
 resourcetype: Document
 title: "A Practical Guide To Building OWL Ontologies Using The Prot\xE9g\xE9-OWL Plugin\
   \ and CO-ODE Tools"

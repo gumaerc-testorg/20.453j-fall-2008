@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b5bb2af9-1cda-c456-78d3-78bcf02fd730
 resourcetype: Document
 title: Design and Implement a Biological Pathway Interaction Database (PID) System
 uid: 61a53e17-c274-267f-d596-89ecf27aed25

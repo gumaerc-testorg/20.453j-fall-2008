@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b5bb2af9-1cda-c456-78d3-78bcf02fd730
 resourcetype: Document
 title: Nux Tutorial
 uid: c6317b4b-8dbd-94b5-79b2-9adc381986cd

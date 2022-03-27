@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b5bb2af9-1cda-c456-78d3-78bcf02fd730
 resourcetype: Document
 title: 'PID: The Pathway Interaction Database'
 uid: 3f4317a6-e1fa-9a2a-91eb-ba8694717f5c

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f97f9cae-9210-910a-8450-59620acd463c
 resourcetype: Document
 title: Creating Databases from Ontologies
 uid: e318cdba-2da6-eed9-81ff-de19fb3912a7

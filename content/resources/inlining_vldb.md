@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bbaeb71e-93e6-7ef5-09cf-88ed1bf66dff
 resourcetype: Document
 title: 'Relational Databases for Querying XML Documents: Limitations and Opportunities'
 uid: 5105858b-042f-14c2-fe13-84dfab9d3fcc
