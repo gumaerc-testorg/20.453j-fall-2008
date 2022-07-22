@@ -6,6 +6,7 @@ file: /courses/20-453j-biomedical-information-technology-fall-2008/b3f88920ed478
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: PostgreSQL Mini Installation User Guide
 uid: b3f88920-ed47-8e70-5bc5-2babbefc5b5c
 ---
 Instructions on downloading and installing of PostgreSQL, an object-relational database management system.
-

@@ -6,6 +6,7 @@ file: /courses/20-453j-biomedical-information-technology-fall-2008/61a53e17c2742
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Design and Implement a Biological Pathway Interaction Database (PID) Syst
 uid: 61a53e17-c274-267f-d596-89ecf27aed25
 ---
 Assignment to design and implement a biological pathway interaction database (PID) system.
-

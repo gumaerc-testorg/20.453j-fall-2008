@@ -6,6 +6,7 @@ file: /courses/20-453j-biomedical-information-technology-fall-2008/c32efc7fc0b0d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Instructions for the Term Paper
 uid: c32efc7f-c0b0-d257-0b59-f4b3cbec6cfe
 ---
 Instructions for a term project on use of the course material in a real information technology case in biology or medicine.
-

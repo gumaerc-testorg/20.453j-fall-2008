@@ -6,6 +6,7 @@ file: /courses/20-453j-biomedical-information-technology-fall-2008/6da09141b6f68
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Constructing a Conformational Space of Pro-Ser-Thr Rich Non-Globular Doma
 uid: 6da09141-b6f6-8d5f-68e9-d4ffcac56bae
 ---
 Example student presentation on final project: "Constructing a Conformational Space of Pro-Ser-Thr Rich Non-Globular Domains."
-

@@ -5,6 +5,7 @@ file: /courses/20-453j-biomedical-information-technology-fall-2008/41be07601fb68
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Parsing and querying XML documents
 uid: 41be0760-1fb6-8d56-1c95-cb73de258b08
 ---
 Assignment on parsing and querying XML documents using Java and XQuery.
-

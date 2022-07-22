@@ -6,6 +6,7 @@ file: /courses/20-453j-biomedical-information-technology-fall-2008/ae00d661c474a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Introduction
 uid: ae00d661-c474-abbd-50f4-722dc2ae11a3
 ---
 Lecture presentation with an introduction to the course and an overview of information technology in modern biology.
-
