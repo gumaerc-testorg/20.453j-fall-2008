@@ -2,6 +2,7 @@
 content_type: resource
 description: Assignment on parsing and querying XML documents using Java and XQuery.
 file: /courses/20-453j-biomedical-information-technology-fall-2008/41be07601fb68d561c95cb73de258b08_assignment2.pdf
+file_size: 50107
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -4,6 +4,7 @@ description: 'Article provided as a course reading on storing, querying, and int
   biomedical data: Cerami, E. G., et al. "cPath: Open Source Software for Collecting,
   Storing, and Querying Biological Pathways." BMC Bioinformatics 7 (2006): 497.'
 file: /courses/20-453j-biomedical-information-technology-fall-2008/117e668873c92dd20adca84c8e437e70_cerami_bmc.pdf
+file_size: 892526
 file_type: application/pdf
 learning_resource_types:
 - Readings
