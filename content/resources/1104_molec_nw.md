@@ -4,6 +4,7 @@ description: Lecture presentation on evolution in biology, metrics for evolution
   change, protein-protein interaction, questions in evolutionary and comparative biology,
   and molecular network comparison.
 file: /courses/20-453j-biomedical-information-technology-fall-2008/530b31c81dc670da56fbf5ff81760639_1104_molec_nw.pdf
+file_size: 2559588
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

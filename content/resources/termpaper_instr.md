@@ -3,6 +3,7 @@ content_type: resource
 description: Instructions for a term project on use of the course material in a real
   information technology case in biology or medicine.
 file: /courses/20-453j-biomedical-information-technology-fall-2008/c32efc7fc0b0d2570b59f4b3cbec6cfe_termpaper_instr.pdf
+file_size: 55793
 file_type: application/pdf
 learning_resource_types:
 - Assignments

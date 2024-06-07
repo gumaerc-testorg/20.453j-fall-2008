@@ -3,6 +3,7 @@ content_type: resource
 description: Example term paper proposal for "Unifying Electronic Medical Records
   (EMR) Systems in Singapore."
 file: /courses/20-453j-biomedical-information-technology-fall-2008/dc852d84a2d81aa372974c4c58cd668d_termpaper_sample.pdf
+file_size: 95174
 file_type: application/pdf
 learning_resource_types:
 - Assignments

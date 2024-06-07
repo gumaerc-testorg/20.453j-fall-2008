@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example student presentation on final project: "Constructing a Conformational
   Space of Pro-Ser-Thr Rich Non-Globular Domains."'
 file: /courses/20-453j-biomedical-information-technology-fall-2008/6da09141b6f68d5f68e9d4ffcac56bae_lc_project.pdf
+file_size: 704988
 file_type: application/pdf
 learning_resource_types:
 - Assignments

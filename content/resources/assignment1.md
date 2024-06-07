@@ -3,6 +3,7 @@ content_type: resource
 description: Assignment to design and implement a biological pathway interaction database
   (PID) system.
 file: /courses/20-453j-biomedical-information-technology-fall-2008/61a53e17c274267fd59689ecf27aed25_assignment1.pdf
+file_size: 61355
 file_type: application/pdf
 learning_resource_types:
 - Assignments
