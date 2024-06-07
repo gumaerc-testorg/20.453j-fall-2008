@@ -4,6 +4,7 @@ description: 'Article provided as a course reading on ontology management in sys
   biology: McGuinness, D. L., and F. van Harmelen, eds. "OWL Web Ontology Language
   Overview." W3C Recommendation, February 10, 2004.'
 file: /courses/20-453j-biomedical-information-technology-fall-2008/4731eea5727fb8198b1aca08ee24acdf_owl_w3c.pdf
+file_size: 361957
 file_type: application/pdf
 learning_resource_types:
 - Readings

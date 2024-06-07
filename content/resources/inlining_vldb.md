@@ -5,6 +5,7 @@ description: 'Article provided as a course reading on storing, querying, and int
   XML Documents: Limitations and Opportunities." Proceedings of the 25th VLDB Conference,
   Edinburgh, Scotland, 1999.'
 file: /courses/20-453j-biomedical-information-technology-fall-2008/5105858b042f14c2fe1384dfab9d3fcc_inlining_vldb.pdf
+file_size: 258917
 file_type: application/pdf
 learning_resource_types:
 - Readings

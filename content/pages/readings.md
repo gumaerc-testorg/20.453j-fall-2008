@@ -15,21 +15,21 @@ Achard, F., et al. "XML, Bioinformatics and Data Integration." _Bioinformatics_ 
 
 Schweiger, R., et al. "Plug-and-Play XML: A Health Care Perspective." _Journal of the American Medical Informatics Association_ 9, no. 1 (January/February 2002): 37-48.
 
-Stanislaus, R., et al. "{{% resource_link "2af69366-8bbf-4212-a9de-e53f3b5586cd" "An XML Standard for the Dissemination of Annotated 2D Gel Electrophoresis Data Complemented with Mass Spectrometry Results" %}}." _BMC Bioinformatics_ 5, no. 9 (2004). ({{% resource_link 7faff9d7-13e5-16e5-c694-03701d2c93a3 "PDF" %}})
+Stanislaus, R., et al. "[An XML Standard for the Dissemination of Annotated 2D Gel Electrophoresis Data Complemented with Mass Spectrometry Results](http://www.biomedcentral.com/1471-2105/5/9)." _BMC Bioinformatics_ 5, no. 9 (2004). ({{% resource_link 7faff9d7-13e5-16e5-c694-03701d2c93a3 "PDF" %}})
 
 Florescu, D., and D. Kossman. "Storing and Querying XML Data using an RDBMS." _Bulletin of the IEEE Computer Society Technical Committee on Data Engineering_ 22 (1999): 27-34. (See pp. 27-34 in ([PDF](ftp://ftp.research.microsoft.com/pub/debull/99SEP-CD.pdf)))
 
 Shanmugasundaram, J., et al. "Relational Databases for Querying XML Documents: Limitations and Opportunities." Proceedings of the 25th VLDB Conference, Edinburgh, Scotland, 1999. ({{% resource_link 5105858b-042f-14c2-fe13-84dfab9d3fcc "PDF" %}})
 
-Zhang, C., et al. "On Supporting Containment Queries in Relational Database Management Systems." Proceedings of ACM SIGMOD 2001, Santa Barbara, CA. ({{% resource_link "94389b74-d0f4-4b62-b319-132f8d017185" "PDF" %}})
+Zhang, C., et al. "On Supporting Containment Queries in Relational Database Management Systems." Proceedings of ACM SIGMOD 2001, Santa Barbara, CA. ([PDF](http://www.vldb.org/conf/2007/papers/demo/p1402-lu.pdf))
 
-Tatarinov, I., et al. "{{% resource_link "9ebca1ef-886f-4079-8db6-89fe98a14e63" "Storing and Querying Ordered XML Using a Relational Database System" %}}." Proceedings of ACM SIGMOD 2002, Madison, WI.
+Tatarinov, I., et al. "[Storing and Querying Ordered XML Using a Relational Database System](https://dx.doi.org/10.1145/564691.564715)." Proceedings of ACM SIGMOD 2002, Madison, WI.
 
 Lesser, U. "A Query Language for Biological Networks." _Bioinformatics_ 21, suppl. 2 (2005): ii33-ii39.
 
 Krishnamurthy, L., et al. "Pathways Database System: An Integrated System for Biological Pathways." _Bioinformatics_ 19, no. 8 (2003): 930-937.
 
-Cerami, E. G., et al. "{{% resource_link "05cfb74c-65f4-43ac-b23f-31a024cfee23" "cPath: Open Source Software for Collecting, Storing, and Querying Biological Pathways" %}}." _BMC Bioinformatics_ 7 (2006): 497. ({{% resource_link 117e6688-73c9-2dd2-0adc-a84c8e437e70 "PDF" %}})
+Cerami, E. G., et al. "[cPath: Open Source Software for Collecting, Storing, and Querying Biological Pathways](http://www.biomedcentral.com/1471-2105/7/497)." _BMC Bioinformatics_ 7 (2006): 497. ({{% resource_link 117e6688-73c9-2dd2-0adc-a84c8e437e70 "PDF" %}})
 
 Part 4: Ontology Management in Systems Biology
 ----------------------------------------------
@@ -41,13 +41,13 @@ Stein, L. D. "Integrating Biological Databases." _Nature Reviews Genetics_ 4 (Ma
 
 Searls, D. B. "Data Integration: Challenges for Drug Discovery." _Nature Reviews Drug Discovery_ 4 (January 2005): 45-48.
 
-Davidson, S. B., and L. Wong. "The Kleisli Approach to Data Transformation and Integration." 2001. (Download {{% resource_link "f00b45f0-bcc0-4e3f-bc07-83684c491361" "PDF" %}} from CiteSeer{{< sup "x" >}}.)
+Davidson, S. B., and L. Wong. "The Kleisli Approach to Data Transformation and Integration." 2001. (Download [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.2180&rep=rep1&type=pdf) from CiteSeer{{< sup "x" >}}.)
 
-Bhowmick, S. S., P. Cruz, and A. Laud. "{{% resource_link "bb835292-a7fe-43f8-9413-f447fb2f0a9d" "XomatiQ: Living With Genomes, Proteomes, Relations and a Little Bit of XML" %}}." Proceedings of 19th International Conference on Data Engineering (ICDE'03), 2003.
+Bhowmick, S. S., P. Cruz, and A. Laud. "[XomatiQ: Living With Genomes, Proteomes, Relations and a Little Bit of XML](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.15.3594&rep=rep1&type=pdf)." Proceedings of 19th International Conference on Data Engineering (ICDE'03), 2003.
 
-Broekstra, J., A. Kampman, and F. van Harmelen. "Sesame: A Generic Architecture for Storing and Querying RDF and RDF Schema." Proceedings of the International Semantic Web Conference (ISWC) 2002. ({{% resource_link "f0c290aa-e930-4658-8356-0c76c44bd4c2" "PDF" %}})
+Broekstra, J., A. Kampman, and F. van Harmelen. "Sesame: A Generic Architecture for Storing and Querying RDF and RDF Schema." Proceedings of the International Semantic Web Conference (ISWC) 2002. ([PDF](http://www.few.vu.nl/~frankh/postscript/MIT01.pdf))
 
-Wilkinson, K., et al. "Efficient RDF Storage and Retrieval in Jena2." Presented at 1st International Workshop on Semantic Web and Databases, September 7, 2003, Berlin, Germany. ({{% resource_link "bf308d62-126a-4a69-8b90-805eb9b206fd" "PDF" %}})
+Wilkinson, K., et al. "Efficient RDF Storage and Retrieval in Jena2." Presented at 1st International Workshop on Semantic Web and Databases, September 7, 2003, Berlin, Germany. ([PDF](http://www.hpl.hp.com/techreports/2003/HPL-2003-266.pdf))
 
 Zhou, J., et al. "Minerva: A Scalable OWL Ontology Storage and Inference System." Proceedings of First Asian Semantic Web Conference, 2006, Beijing China.
 
@@ -56,13 +56,13 @@ McGuinness, D. L., and F. van Harmelen, eds. "OWL Web Ontology Language Overview
 Part 5: Biological Pathways
 ---------------------------
 
-Lu, J., et al. "SOR: A Practical System for Ontology Storage, Reasoning and Search." Proceedings of VLDB '07, September 23-28, 2007, Vienna, Austria. ({{% resource_link "94389b74-d0f4-4b62-b319-132f8d017185" "PDF" %}})
+Lu, J., et al. "SOR: A Practical System for Ontology Storage, Reasoning and Search." Proceedings of VLDB '07, September 23-28, 2007, Vienna, Austria. ([PDF](http://www.vldb.org/conf/2007/papers/demo/p1402-lu.pdf))
 
-Smith, A. K., et al. "{{% resource_link "75486c97-ecb9-4f6b-82c3-72db74fcff74" "LinkHub: A Semantic Web System that Facilitates Cross-database Queries and Information Retrieval in Proteomics" %}}." _BMC Bioinformatics_ 8, Suppl. 3 (2007): S5. ({{% resource_link 8b05d0c4-db91-ef1f-0c5e-123bbcf701ea "PDF" %}})
+Smith, A. K., et al. "[LinkHub: A Semantic Web System that Facilitates Cross-database Queries and Information Retrieval in Proteomics](http://www.biomedcentral.com/1471-2105/8/S3/S5)." _BMC Bioinformatics_ 8, Suppl. 3 (2007): S5. ({{% resource_link 8b05d0c4-db91-ef1f-0c5e-123bbcf701ea "PDF" %}})
 
-Lam, H. Y. K., et al. "{{% resource_link "2cbfcf30-3944-4ecb-8a11-90b9f793a2aa" "AlzPharm: Integration of Neurodegeneration Data using RDF" %}}." _BMC Bioinformatics_ 8, Suppl 3 (2007): S4. ({{% resource_link cf29d194-4802-c2f9-5a66-ee61e8b582b4 "PDF - 1.1 MB" %}})
+Lam, H. Y. K., et al. "[AlzPharm: Integration of Neurodegeneration Data using RDF](http://www.biomedcentral.com/1471-2105/8/S3/S4)." _BMC Bioinformatics_ 8, Suppl 3 (2007): S4. ({{% resource_link cf29d194-4802-c2f9-5a66-ee61e8b582b4 "PDF - 1.1 MB" %}})
 
-Aranguren, M. E., et al. "{{% resource_link "43cca508-fef4-4966-b2ca-c0ae09a57f48" "Understanding and Using the Meaning of Statements in a Bio-ontology: Recasting the Gene Ontology in OWL" %}}." _BMC Bioinformatics_ 8 (2007): 57. ({{% resource_link d53673ff-d072-1379-2965-b541368d7201 "PDF" %}})
+Aranguren, M. E., et al. "[Understanding and Using the Meaning of Statements in a Bio-ontology: Recasting the Gene Ontology in OWL](http://www.biomedcentral.com/1471-2105/8/57)." _BMC Bioinformatics_ 8 (2007): 57. ({{% resource_link d53673ff-d072-1379-2965-b541368d7201 "PDF" %}})
 
 Kanaris, I., et al. "Building in-silico Pathway SBML Models from Heterogeneous Sources." Proceedings of 8th IEEE International Conference on BioInformatics and BioEngineering (BIBE 2008), Athens Greece, October 8-10, 2008. Paper BI916. doi: 10.1109/BIBE.2008.4696730.
 
@@ -70,14 +70,14 @@ Sharan, R., and T. Ideker. "Modeling Cellular Machinery Through Biological Netwo
 
 Kelley, Brian P., et al. "Conserved Pathways Within Bacteria and Yeast as Revealed by Global Protein Network Alignment." _PNAS_ 100, no. 20 (September 20, 2003): 11304-11309. doi: 10.1073/pnas.1534710100.
 
-Shlomi, T., et al. "{{% resource_link "3bf76446-9c41-4834-b189-8d53b0d8304f" "QPath: A Method for Querying Pathways in a Protein-protein Interaction Network" %}}." _BMC Bioinformatics_ 7 (2006): 199. ({{% resource_link ac5d464f-f020-978f-b700-26cb8290ee18 "PDF" %}})
+Shlomi, T., et al. "[QPath: A Method for Querying Pathways in a Protein-protein Interaction Network](http://www.biomedcentral.com/1471-2105/7/199)." _BMC Bioinformatics_ 7 (2006): 199. ({{% resource_link ac5d464f-f020-978f-b700-26cb8290ee18 "PDF" %}})
 
 Sharan, R., et al. "Conserved Patterns of Protein Interaction in Multiple Species." _PNAS_ 102, no. 6 (February 8, 2005): 1974-1979. doi:10.1073/pnas.0409522102.
 
 Part 6: Biological and Medical Data Integration
 -----------------------------------------------
 
-Bataller, R., and D. A. Brenner. "{{% resource_link "1d4cb783-e302-484a-9ba1-6c01b077053d" "Liver Fibrosis" %}}." _The Journal of Clinical Investigation_ 115, no. 2 (February 2005): 209-218.
+Bataller, R., and D. A. Brenner. "[Liver Fibrosis](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=546435)." _The Journal of Clinical Investigation_ 115, no. 2 (February 2005): 209-218.
 
 Part 7: Grand Challenges
 ------------------------
