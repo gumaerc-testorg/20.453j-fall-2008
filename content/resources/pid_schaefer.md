@@ -3,7 +3,7 @@ content_type: resource
 description: Article on The Pathway Interaction Database (PID), a freely available
   collection of curated and peer-reviewed pathways composed of human molecular signaling
   and regulatory events and key cellular processes.
-file: /ol-ocw-studio-app/courses/20-453j-biomedical-information-technology-fall-2008/3f4317a6e1fa9a2a91ebba8694717f5c_pid_schaefer.pdf
+file: /courses/20-453j-biomedical-information-technology-fall-2008/3f4317a6e1fa9a2a91ebba8694717f5c_pid_schaefer.pdf
 file_size: 547001
 file_type: application/pdf
 learning_resource_types:
