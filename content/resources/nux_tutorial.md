@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Tutorial on using Nux, an open-source Java toolkit  for XML processing.
-file: /ol-ocw-studio-app/courses/20-453j-biomedical-information-technology-fall-2008/c6317b4b8dbd94b579b29adc381986cd_nux_tutorial.pdf
+file: /courses/20-453j-biomedical-information-technology-fall-2008/c6317b4b8dbd94b579b29adc381986cd_nux_tutorial.pdf
 file_size: 352616
 file_type: application/pdf
 learning_resource_types:

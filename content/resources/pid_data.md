@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting data file for an assignment to design and implement a biological
   pathway interaction database (PID) system.
-file: /ol-ocw-studio-app/courses/20-453j-biomedical-information-technology-fall-2008/7ecd47017cbfae33bfcbe0acaa39a4d7_pid_data.xls
+file: /courses/20-453j-biomedical-information-technology-fall-2008/7ecd47017cbfae33bfcbe0acaa39a4d7_pid_data.xls
 file_size: 41472
 file_type: application/msword
 learning_resource_types:

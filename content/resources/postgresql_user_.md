@@ -2,7 +2,7 @@
 content_type: resource
 description: Instructions on downloading and installing of PostgreSQL, an object-relational
   database management system.
-file: /ol-ocw-studio-app/courses/20-453j-biomedical-information-technology-fall-2008/b3f88920ed478e705bc52babbefc5b5c_postgresql_user_.pdf
+file: /courses/20-453j-biomedical-information-technology-fall-2008/b3f88920ed478e705bc52babbefc5b5c_postgresql_user_.pdf
 file_size: 657539
 file_type: application/pdf
 learning_resource_types:
