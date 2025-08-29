@@ -32,7 +32,7 @@ Cerami, E. G., et al. "[cPath: Open Source Software for Collecting, Storing, and
 
 ## Part 4: Ontology Management in Systems Biology
 
-Horridge, M., et al. "A Practical Guide To Building OWL Ontologies Using The Protégé -OWL Plugin and CO-ODE Tools." Edition 1.0, 1994. ({{% resource_link "d76d8bbe-e892-ff47-b042-a0814c10e4f6" "PDF - 2.3 MB" %}})   
+Horridge, M., et al. "A Practical Guide To Building OWL Ontologies Using The Protégé -OWL Plugin and CO-ODE Tools." Edition 1.0, 1994. ({{% resource_link "d76d8bbe-e892-ff47-b042-a0814c10e4f6" "PDF - 2.3 MB" %}})    
 An excellent introduction to ontologies and the OWL language, in the context of an editing and execution environment called Protégé.
 
 Stein, L. D. "Integrating Biological Databases." *Nature Reviews Genetics* 4 (May 2003): 337-345.
@@ -73,7 +73,7 @@ Sharan, R., et al. "Conserved Patterns of Protein Interaction in Multiple Specie
 
 ## Part 6: Biological and Medical Data Integration
 
-Bataller, R., and D. A. Brenner. "[Liver Fibrosis](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=546435)." *The Journal of Clinical Investigation* 115, no. 2 (February 2005): 209-218.
+Bataller, R., and D. A. Brenner. "[Liver Fibrosis](https://pubmed.ncbi.nlm.nih.gov/15690074/)." *The Journal of Clinical Investigation* 115, no. 2 (February 2005): 209-218.
 
 ## Part 7: Grand Challenges
 
