@@ -12,7 +12,7 @@ uid: b5bb2af9-1cda-c456-78d3-78bcf02fd730
 Background
 ----------
 
-Download [Cell Designer™](http://www.celldesigner.org/), a modeling tool for biochemical networks
+Download {{% resource_link "04fffa25-1474-4ead-b667-c92af7625be9" "Cell Designer™" %}}, a modeling tool for biochemical networks
 
 Homework Assignments
 --------------------
